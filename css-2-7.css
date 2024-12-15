@@ -1,0 +1,314 @@
+body{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+#Frame{
+    max-width: 1604px;
+    height:2088px;
+    padding: 385px 78px 67px 238px;
+    background: #FFF;
+
+}
+#section{
+    width:1412px;
+    height:1896px;
+    padding: 96px;
+    background: #1B0E0F;
+}
+#FeatureSecttion{
+    width: 1412px;
+    height:1704px;
+    background: #FFF;
+    padding:96px 0;
+}
+/* ConteinerOne*/
+#conteinerOne{
+    width:1216px;
+    margin:0 auto;
+    margin-bottom: 56px;
+}
+#textOne{
+    color: #002AFE;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    margin:0;
+    margin-bottom:12px;
+}
+#textSec{
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px; 
+    text-align: center;
+    margin:0;
+    margin-bottom:24px;
+}
+#textthreeth{
+    color: #535862;
+    text-align: center;
+    font-size:  20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+}
+/* ConteinerTwo*/
+#conteinertwo{
+    width:1280px;
+    height:462px;
+    margin:0 auto;
+}
+#pictureone{
+    display:inline-block;
+    vertical-align:middle;
+    width: 600px;
+    height: 462px;
+    margin-right:145px;
+    border-radius: 16px;
+}
+#content{
+    display:inline-block;
+    vertical-align:middle;
+    width:530px;
+}
+#textDesign{
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin:0;
+    margin-bottom:8px;
+}
+#textHowcollaboration{
+    display:inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px; 
+    margin:0;
+    margin-bottom:8px;
+    margin-right:10px;
+}
+#Logoarrowup1{
+    display:inline-block;
+    vertical-align: middle;
+}
+#Collaborationtext{
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    margin:0;
+    margin-bottom:24px;
+}
+/* Natali ICON */
+#NataliIcon{
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:8px;
+}
+#NataliJob{
+    display: inline-block;
+    vertical-align:middle;
+    
+}
+#Name{
+    color: #181D27;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height:20px;
+    margin:0;
+}
+#Data{
+    color: #535862;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin:0;
+}
+
+/* Conteiner three*/
+#conteinerthree{
+    width:1280px;
+    height:462px;
+    margin:0 auto;
+    margin-top:56px;
+}
+#picturethree{
+    display:inline-block;
+    vertical-align:middle;
+    width: 600px;
+    height: 462px;
+    margin-right:145px;
+    border-radius: 16px;
+}
+#content1{
+    display:inline-block;
+    vertical-align:middle;
+    width:530px;
+}
+#textDesign1{
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin:0;
+    margin-bottom:8px;
+}
+#textHowcollaboration1{
+    display:inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px; 
+    margin:0;
+    margin-bottom:8px;
+    margin-right:10px;
+}
+#Logoarrowup11{
+    display:inline-block;
+    vertical-align: middle;
+}
+#Collaborationtext1{
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    margin:0;
+    margin-bottom:24px;
+}
+/* Natali ICON */
+#NataliIcon1{
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:8px;
+}
+#NataliJob{
+    display: inline-block;
+    vertical-align:middle;
+    
+}
+#Name1{
+    color: #181D27;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height:20px;
+    margin:0;
+}
+#Data1{
+    color: #535862;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin:0;
+}
+
+/* Conteiner four */
+
+#conteinerfour{
+    width:1280px;
+    height:462px;
+    margin:0 auto;
+    margin-top:56px;
+}
+#picturethres{
+    display:inline-block;
+    vertical-align:middle;
+    width: 600px;
+    height: 462px;
+    margin-right:145px;
+    border-radius: 16px;
+}
+#content2{
+    display:inline-block;
+    vertical-align:middle;
+    width:530px;
+}
+#textDesign11{
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    margin:0;
+    margin-bottom:8px;
+}
+#textHowcollaboration11{
+    display:inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px; 
+    margin:0;
+    margin-bottom:8px;
+    margin-right:10px;
+}
+#Logoarrowup113{
+    display:inline-block;
+    vertical-align: middle;
+}
+#Collaborationtext11{
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    margin:0;
+    margin-bottom:24px;
+}
+/* Natali ICON */
+#NataliIcon11{
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:8px;
+}
+#NataliJob1{
+    display: inline-block;
+    vertical-align:middle;
+    
+}
+#Name11{
+    color: #181D27;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height:20px;
+    margin:0;
+}
+#Data11{
+    color: #535862;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin:0;
+}
